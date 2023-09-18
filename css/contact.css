@@ -1,0 +1,85 @@
+.main__banner .banner__pic{
+    height: 550px;
+    background-color: black;
+    opacity: 0.2;
+}
+
+.main__banner  .carousel-caption h1{
+    color: #0a1c2c;
+    border: none;
+    font-size: 100px;
+    text-align: center;
+    border-top: 5px solid #58bb61;
+    border-bottom: 5px solid #58bb61;
+    border-radius: 10px;
+    transform: translate(0%, -133%);
+}
+
+/* forms */
+.main__form .div__contact1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.main__form .div__contact2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.main__form .div__contact3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.main__form .div__submitForm{
+    display: block;
+    width: 75%;
+    margin: auto;
+    height: 125px;
+    resize: none;
+}
+
+.main__form .button__contact{
+    display: block;
+    width: 25%;
+    margin: auto;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+
+.main__form .btn-primary {
+    color: #fff;
+    background-color: #000;
+    border-color: #fff;
+}
+
+ .form-control{
+    border-radius: none;
+}
+
+ .div__main{
+    background-color: #0a1c2c;
+    color: #fff;
+    padding: 50px;
+    margin-bottom: 25px;
+}
+
+.main__form .div__h1{
+    margin-bottom: 70px;
+}
+
+.main__form .carousel-dark .carousel-indicators [data-bs-target]{
+    display: none;
+}
+
+@media only screen and  (max-width: 429px){
+    .main__banner .carousel-dark .carousel-caption h1{
+        font-size: 40px;
+    }
+}
+

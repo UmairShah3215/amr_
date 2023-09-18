@@ -1,0 +1,72 @@
+.main__construction .banner__pic{
+    height: 550px;
+    background-color: black;
+    opacity: 0.2;
+}
+
+.main__construction  .carousel-caption h1{
+    color: #0a1c2c;
+    border: none;
+    font-size: 100px;
+    text-align: center;
+    border-top: 5px solid #58bb61;
+    border-bottom: 5px solid #58bb61;
+    border-radius: 10px;
+    transform: translate(0%, -133%);
+}
+/* construction */
+.main__constructionMid{
+    margin: 0;
+    background-color: #0a1c2c;
+    padding-bottom: 50px;
+}
+
+.main__constructionMid .div__constructionSec{
+    text-align: center;
+    border-bottom: 5px solid #58bb61;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: block;
+    width: 75%;
+    margin: auto;
+    color: #fff;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.main__constructionMid .card:hover{
+    color: white;
+    opacity: 0.2;
+    transition: all 0.3s;
+}
+
+
+.main__constructionMid .list-group-item{
+    background-color: #0a1c2c;
+    border: none;
+    color: #fff;
+}
+
+.main__constructionMid .card{
+    margin-top: 50px;
+}
+
+.main__constructionMid .cons{
+    color: #58bb61;
+    font-weight: bold;
+}
+
+.main__constructionMid .p__constructionMid{
+    color: #fff;
+    display: block;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.main__constructionMid .h2__constructionMid{
+    color: #58bb61;
+    padding-left: 30px;
+    padding-top: 30px;
+}

@@ -1,0 +1,72 @@
+.main__geoTechnical .banner__pic{
+    height: 550px;
+    background-color: black;
+    opacity: 0.2;
+}
+
+.main__geoTechnical .carousel-caption h1{
+    color: #0a1c2c;
+    border: none;
+    font-size: 100px;
+    text-align: center;
+    border-top: 5px solid #58bb61;
+    border-bottom: 5px solid #58bb61;
+    border-radius: 10px;
+    transform: translate(0%, -133%);
+}
+
+/* geomid */
+.main__geoTechnicalMid{
+    margin: 0;
+    background-color: #0a1c2c;
+}
+
+.main__geoTechnicalMid .div__geoTechnicalSec{
+    text-align: center;
+    border-bottom: 5px solid #58bb61;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: block;
+    width: 75%;
+    margin: auto;
+    color: #fff;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.main__geoTechnicalMid .list-group-item{
+    background-color: #0a1c2c;
+    border: none;
+    color: #fff;
+}
+
+.main__geoTechnicalMid .card{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.main__geoTechnicalMid .card:hover{
+    color: black;
+    opacity: 0.2;
+    transition: all 0.3s;
+}
+
+.main__geoTechnicalMid .cons{
+    color: #58bb61;
+    font-weight: bold;
+}
+
+.main__geoTechnicalMid .p__geoTechnicalMid{
+    color: #fff;
+    display: block;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.main__geoTechnicalMid .h2__geoTechnicalMid{
+    color: #58bb61;
+    padding-left: 30px;
+    padding-top: 30px;
+}
